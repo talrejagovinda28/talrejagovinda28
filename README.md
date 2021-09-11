@@ -2,8 +2,8 @@
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 ### About Me :raising_hand_man:
-- :school: I'm currently pursuing B.Tech in CSE from MIT World Peace University, Pune.
 - 👋 Hi, I’m Govinda Talreja.
+- :school: I'm currently pursuing B.Tech in CSE from MIT World Peace University, Pune.
 - 👀 I’m interested in AI and ML.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Python and Web Dev Projects

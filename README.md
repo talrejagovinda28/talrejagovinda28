@@ -41,9 +41,10 @@
 
 <br><br>
 <p align="center">
-<h4 align="center">:rocket: <a href="https://github.com/AbhishekTilwar?tab=repositories"> Govinda Talreja</a> :rocket:</h4>
+<h4 align="center">:rocket: <a href="https://github.com/talrejagovinda28?tab=repositories"> Govinda Talreja</a> :rocket:</h4>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=talrejagovinda28&label=Views&color=blue&style=plastic" alt="talrejagovinda28" /> </p>
 <!---
 talrejagovinda28/talrejagovinda28 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

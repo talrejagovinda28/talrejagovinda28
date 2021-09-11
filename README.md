@@ -15,7 +15,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/govinda-talreja-49a282152/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/talrejagovinda28/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/govinda.talreja.9/)
-[<img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](talrejagovinda28@gmail.com)
+[<img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:talrejagovinda28@gmail.com?subject=Hey%2C%20I%20am%20here%20from%20your%20GitHub%20profile.&body=Just%20wanted%20to%20say%20hello%20%3A))
 
 
 <br><br>
